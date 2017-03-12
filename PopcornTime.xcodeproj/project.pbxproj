@@ -2068,7 +2068,7 @@
 				DEVELOPMENT_TEAM = 268S5GJFWZ;
 				INFOPLIST_FILE = "$(SRCROOT)/PopcornTime/Supporting FIles/tvOS.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.popcorntimetv.popcorntime.tvos;
+				PRODUCT_BUNDLE_IDENTIFIER = com.icolasoft.popcorntime.tvos;
 				PRODUCT_NAME = PopcornTime;
 				SWIFT_OBJC_BRIDGING_HEADER = "${SRCROOT}/PopcornTime/Supporting Files/PopcornTimetvOS-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -2087,7 +2087,7 @@
 				DEVELOPMENT_TEAM = 268S5GJFWZ;
 				INFOPLIST_FILE = "$(SRCROOT)/PopcornTime/Supporting FIles/tvOS.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.popcorntimetv.popcorntime.tvos;
+				PRODUCT_BUNDLE_IDENTIFIER = com.icolasoft.popcorntime.tvos;
 				PRODUCT_NAME = PopcornTime;
 				SWIFT_OBJC_BRIDGING_HEADER = "${SRCROOT}/PopcornTime/Supporting Files/PopcornTimetvOS-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
@@ -2254,7 +2254,7 @@
 				);
 				INFOPLIST_FILE = TopShelf/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.popcorntimetv.popcorntime.tvos.TopShelf;
+				PRODUCT_BUNDLE_IDENTIFIER = com.icolasoft.popcorntime.tvos.TopShelf;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
@@ -2275,7 +2275,7 @@
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = TopShelf/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.popcorntimetv.popcorntime.tvos.TopShelf;
+				PRODUCT_BUNDLE_IDENTIFIER = com.icolasoft.popcorntime.tvos.TopShelf;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 3.0;
@@ -2304,7 +2304,7 @@
 				INFOPLIST_FILE = "$(SRCROOT)/PopcornTime/Supporting FIles/iOS.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.popcorntimetv.popcorntime.ios;
+				PRODUCT_BUNDLE_IDENTIFIER = com.icolasoft.popcorntime.ios;
 				PRODUCT_NAME = PopcornTime;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
@@ -2330,7 +2330,7 @@
 				INFOPLIST_FILE = "$(SRCROOT)/PopcornTime/Supporting FIles/iOS.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.popcorntimetv.popcorntime.ios;
+				PRODUCT_BUNDLE_IDENTIFIER = com.icolasoft.popcorntime.ios;
 				PRODUCT_NAME = PopcornTime;
 				SDKROOT = iphoneos;
 				SWIFT_OBJC_BRIDGING_HEADER = "${SRCROOT}/PopcornTime/Supporting Files/PopcornTimeiOS-Bridging-Header.h";
